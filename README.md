@@ -74,13 +74,9 @@ I’m a passionate web developer focused on building responsive, user-friendly w
   <img src="https://streak-stats.demolab.com?user=abid129456&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
-### 📈 Contribution Activity Graph
 
-[![Abid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abid129456&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
 
 
