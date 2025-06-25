@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://i.ibb.co/XrBzTnf9/Screenshot-2025-02-09-185421.png" alt="Bangladesh 2.0 Preview" width="100%" />
 
-# 👋 Hi, I'm Abid Hasan
+# 👋 Md Abid Hasan
 ## 🚀 Junior MERN Stack Developer
 
 ### 🧠 About Me
