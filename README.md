@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/XrBzTnf9/Screenshot-2025-02-09-185421.png" alt="Bangladesh 2.0 Preview" width="100%" />
+  <img src="https://i.ibb.co/XrBzTnf9/Screenshot-2025-02-09-185421.png" alt="Bangladesh 2.0 Preview" width="50%" />
 </p>
 
 <h1 align="center">🇧🇩 Bangladesh 2.0</h1>
