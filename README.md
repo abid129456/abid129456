@@ -47,6 +47,16 @@ I’m a passionate web developer focused on building responsive, user-friendly w
   <img src="https://streak-stats.demolab.com?user=hasanabid11223&theme=tokyonight" alt="streak" />
 </p>
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanabid11223&show_icons=true&theme=tokyonight" alt="stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanabid11223&layout=compact&theme=tokyonight" alt="top langs" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=hasanabid11223&theme=tokyonight" alt="streak" />
+</p>
+
 
 
 
