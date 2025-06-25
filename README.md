@@ -50,11 +50,7 @@ I’m a passionate web developer focused on building responsive, user-friendly w
 
 
 
-### 🔥 GitHub Streak Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=abid129456&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 
 
