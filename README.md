@@ -48,9 +48,39 @@ I’m a passionate web developer focused on building responsive, user-friendly w
 </p>
 
 
-### 📈 GitHub Activity Graph
+---
 
-[![Abid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abid129456&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 GitHub Statistics
+
+### 🧮 GitHub Stats Card
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abid129456&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📚 Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid129456&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 GitHub Streak Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=abid129456&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Contribution Activity Graph
+
+[![Abid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abid129456&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 
 
