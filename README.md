@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="https://your-banner-link.com/banner.png" alt="Banner" width="100%" />
 
-<!--
-**abid129456/abid129456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hasan Abid
+## 🚀 Junior MERN Stack Developer
 
-Here are some ideas to get you started:
+### 🧠 About Me
+I'm a passionate web developer with a focus on the MERN stack. I love building user-friendly web applications and exploring modern tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **Next.js**
+- 🛠️ Working on a **Tourism website**
+- 💬 Ask me about React, Node.js, MongoDB
+
+---
+
+### 🛠️ Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,firebase,github,tailwind" />
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="mailto:hasanabid11223@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hasanabid11223"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanabid11223&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanabid11223&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hasanabid11223&theme=tokyonight)](https://git.io/streak-stats)
