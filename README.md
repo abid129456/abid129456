@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://i.ibb.co/VShJ4tS/banner-dev.png" alt="banner" width="100%" />
 
-# 👋 Hi, I'm Md Abid Hasan
+#  Md Abid Hasan
 ## 💻 Web Developer | MERN Stack Learner
 
 ### 🧠 About Me
