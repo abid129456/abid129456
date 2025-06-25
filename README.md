@@ -1,5 +1,9 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/XrBzTnf9/Screenshot-2025-02-09-185421.png" alt="Bangladesh 2.0 Preview" width="100%" />
+<p align="center">
+  <img src="https://i.ibb.co/XrBzTnf9/Screenshot-2025-02-09-185421.png" alt="Bangladesh 2.0 Preview" width="100%" />
+</p>
+
+<h1 align="center">🇧🇩 Bangladesh 2.0</h1>
 
 # 👋 Md Abid Hasan
 ## 🚀 Junior MERN Stack Developer
