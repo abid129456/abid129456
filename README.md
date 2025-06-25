@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/R4pf696K/Red-and-Black-Modern-Business-Development-Strategy-Banner.jpg" alt="Bangladesh 2.0 Preview" width="100%"  />
+  <img src="https://i.ibb.co/FqXRctWv/Red-and-Black-Modern-Business-Development-Strategy-Banner.png" alt="Bangladesh 2.0 Preview" width="100%"  />
   
   
 </p>
