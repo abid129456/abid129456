@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/VShJ4tS/banner-dev.png" alt="banner" width="100%" />
 
 #  Md Abid Hasan
-## 💻 Web Developer | MERN Stack Learner
+## 💻 Junior MERN Stack Developer
 
 ### 🧠 About Me
 I’m a passionate web developer focused on building responsive, user-friendly web applications. I love learning modern web technologies and turning ideas into real-life solutions.
