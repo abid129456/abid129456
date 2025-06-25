@@ -46,3 +46,13 @@ I’m a passionate web developer focused on building responsive, user-friendly w
   <br/>
   <img src="https://streak-stats.demolab.com?user=hasanabid11223&theme=tokyonight" alt="streak" />
 </p>
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abid129456&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid129456&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=abid129456&theme=tokyonight" alt="GitHub Streak" />
+</p>
