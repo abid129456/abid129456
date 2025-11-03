@@ -17,8 +17,9 @@ I’m a passionate web developer focused on building responsive, user-friendly w
 
 ### 🛠️ Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,reactrouter,nodejs,express,mongodb,firebase,github,vite,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,nodejs,express,mongodb" />
 </p>
+
 
 ---
 
