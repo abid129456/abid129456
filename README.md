@@ -29,9 +29,11 @@ I’m a passionate web developer focused on building responsive, user-friendly w
 <a href="https://www.facebook.com/?ref=homescreenpwa">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
+ <br/>
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br/>
   <a href="https://github.com/abid129456">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
