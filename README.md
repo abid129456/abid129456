@@ -1,5 +1,6 @@
 
- <img src="https://i.ibb.co/1fQNHyjn/Red-and-Black-Modern-Business-Development-Strategy-Banner-1.jpg" alt="" width="100%"  />
+ <img src="[https://i.ibb.co/1fQNHyjn/Red-and-Black-Modern-Business-Development-Strategy-Banner-1.jpg](https://i.ibb.co/5gkw4N4w/Screenshot-2025-11-02-212419.png)" alt="" width="100%"  />
+ 
 
 #  Md Abid Hasan
 ## 💻 Junior MERN Stack Developer
