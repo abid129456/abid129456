@@ -1,5 +1,5 @@
 
-  <img src="https://i.ibb.co/5gkw4N4w/Screenshot-2025-11-02-212419.png" alt="Project Screenshot" width="100%" height="400px" />
+  <img src="https://i.ibb.co/5gkw4N4w/Screenshot-2025-11-02-212419.png" alt="" width="100%"  />
 
  
 
