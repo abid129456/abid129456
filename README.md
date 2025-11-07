@@ -1,5 +1,5 @@
 
-  ![Full Stack Web Developer | JavaScript, React, Node.js, Express & MongoDB | Tailwind Enthusiast](https://i.ibb.co.com/Vpp3Z69M/Whats-App-Image-2025-10-17-at-17-35-57-f25e667f.jpg)
+  ![Full Stack Web Developer | JavaScript, React, Node.js, Express & MongoDB | Tailwind Enthusiast](https://i.ibb.co/5gkw4N4w/Screenshot-2025-11-02-212419.png)
 
  
 
